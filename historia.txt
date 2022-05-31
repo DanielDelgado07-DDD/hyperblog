@@ -12,3 +12,5 @@ es, necesario crear una branch cuando se hace reflog para poder fusionar la rama
 con lo que se recupera desde donde se requiere hacer un git merge con la rama que se va 
 a eliminar. despues se puede eliminar con git branch -d [NombreRama]
 
+aprendiendo a usar el git reset HEAD historia.txt
+hora de saber que pasa
