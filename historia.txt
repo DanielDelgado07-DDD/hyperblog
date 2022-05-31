@@ -1,4 +1,4 @@
 Esta es la historia de Daniel
 Daniel Nacion en Colombia y tiene 29 años
-hablaremos de su vida
-y proximamente de su nuevo empleo, y su trabajo de grado
+hablaremos de su historia
+hoy hemos aprendido sobre cambios usando git chekckout code [archivo]
