@@ -1,3 +1,8 @@
 Esta es la historia de Daniel
 Daniel Nacion en Colombia y tiene 29 años
-hablaremos de su vida
+hablaremos de su historia
+hoy hemos aprendido sobre cambios usando git chekckout code [archivo]
+tengo que modificar mas cosas para notar cambios
+ejemplo , las cosas son mejor cuando practicas
+En este momento las cosas con esfuerzo son mas importantes,
+que lo que no se hace con esfuerzo
