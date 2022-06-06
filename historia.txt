@@ -14,3 +14,5 @@ a eliminar. despues se puede eliminar con git branch -d [NombreRama]
 
 aprendiendo a usar el git reset HEAD historia.txt
 hora de saber que pasa
+que paso
+ahora dos 

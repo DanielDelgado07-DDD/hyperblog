@@ -1,5 +1,22 @@
 body{
-    color: deeppink;
-    text-align: center;
+    color: #333 ;
+    text-align: Center;
     font-family: "Arial";
+    font-size: 16px;
+    margin : 0;
+    padding: 0;
+}
+
+#Container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1em solid #ddd;
+    margin: 0 auto;
+}
+
+#Container h1
+{
+    font-size: 20px;
 }
