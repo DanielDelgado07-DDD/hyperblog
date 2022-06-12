@@ -1,7 +1,7 @@
 Esta es la historia de Daniel
 Daniel Nacion en Colombia y tiene 29 años
 Anita platzi tiene 23 años
-CamilaPlatzi tien 28 años
+CamilaPlatzi tien 28 años y ahora contribuye a un proyecto Open Source
 hablaremos de su historia
 hoy hemos aprendido sobre cambios usando git chekckout code [archivo]
 tengo que modificar mas cosas para notar cambios
